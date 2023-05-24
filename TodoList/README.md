@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Description]  
+- [Screenshots]
 - [Built with]
 - [What I learned]
 - [Author]
@@ -13,6 +14,12 @@
 - This is a Todo List. 
 - The user is alloed to add as many todos as she wants to the list.
 - To delete a todo, just click on it so it can be filtered from the todo array.
+
+## Screenshots
+
+- [](assets/Screenshot_20230524-054952.png)
+- [](assets/Screenshot_20230524-055013.png)
+- [](assets/Screenshot_20230524-055003.png)
 
 ## Built with
 
