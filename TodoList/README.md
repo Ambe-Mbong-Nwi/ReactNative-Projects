@@ -17,9 +17,9 @@
 
 ## Screenshots
 
-- [](assets/Screenshot_20230524-054952.png)
-- [](assets/Screenshot_20230524-055013.png)
-- [](assets/Screenshot_20230524-055003.png)
+- ![](assets/Screenshot_20230524-054952.png)
+- ![](assets/Screenshot_20230524-055013.png)
+- ![](assets/Screenshot_20230524-055003.png)
 
 ## Built with
 
